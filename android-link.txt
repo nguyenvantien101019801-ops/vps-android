@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ordered-stainless-prominent-lake.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://maintains-his-subjects-artists.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-12 21:56:03 UTC
+Created   : 2026-09-13 01:47:33 UTC
 =======================================================
