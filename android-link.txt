@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://medal-montgomery-nothing-yang.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://flag-contents-accomplished-procedure.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-24 14:42:18 UTC
+Created   : 2026-09-24 18:55:20 UTC
 =======================================================
