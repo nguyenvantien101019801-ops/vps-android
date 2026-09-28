@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tells-transition-computed-intersection.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://joe-north-mid-omaha.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-28 11:29:05 UTC
+Created   : 2026-09-28 21:03:57 UTC
 =======================================================
