@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://excuse-phentermine-restrictions-boulder.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://buys-revealed-enzyme-skirt.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-14 10:00:30 UTC
+Created   : 2026-10-14 14:56:58 UTC
 =======================================================
