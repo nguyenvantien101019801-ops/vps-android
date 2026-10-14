@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://headphones-kick-saver-neck.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://cast-yale-invest-developmental.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-13 20:35:56 UTC
+Created   : 2026-10-14 02:31:05 UTC
 =======================================================
