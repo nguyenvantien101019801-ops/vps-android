@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chassis-bidding-showers-diary.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://afternoon-justin-borough-app.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-16 02:02:21 UTC
+Created   : 2026-10-16 09:33:46 UTC
 =======================================================
