@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://porcelain-luis-conducted-gba.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://eng-displayed-white-lace.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-22 14:55:33 UTC
+Created   : 2026-10-22 19:05:55 UTC
 =======================================================
