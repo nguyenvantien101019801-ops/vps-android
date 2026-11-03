@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mentor-literacy-embassy-prohibited.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://pediatric-helped-desktops-downloadable.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-02 23:06:58 UTC
+Created   : 2026-11-03 04:24:17 UTC
 =======================================================
